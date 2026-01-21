@@ -1,3 +1,10 @@
-# BANK STATEMENT STATISTICS
+# PROJECT TITLE: PERSONAL & HOUSEHOLD FINANCIAL INTELLIGENCE SYSTEM
+## JANUARY PROJECTS
+-Transaction Data
+-Inflation Data
+-FX Data
+-Consumer price Data
 
-## An analysis of a personnel financial transactions
+## WK1: An analysis of a personal financial transactions
+
+## Data_Source:  Personal bank statement
